@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogClubApp", "DogClubApp\DogClubApp.csproj", "{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogClubAPI", "DogClubAPI\DogClubAPI.csproj", "{B5EEEC7C-A8AE-4788-B200-6482ED2B6F00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EEEC7C-A8AE-4788-B200-6482ED2B6F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EEEC7C-A8AE-4788-B200-6482ED2B6F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EEEC7C-A8AE-4788-B200-6482ED2B6F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EEEC7C-A8AE-4788-B200-6482ED2B6F00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57B521D9-F6FD-4E15-91CF-92B42C58E102}
+	EndGlobalSection
+EndGlobal

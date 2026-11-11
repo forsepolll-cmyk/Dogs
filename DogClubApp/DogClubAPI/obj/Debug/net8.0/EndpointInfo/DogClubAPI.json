@@ -1,0 +1,194 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "DogClubAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Dogs": {
+      "get": {
+        "tags": [
+          "Dogs"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Dogs"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DogDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DogDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/DogDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Dogs/{id}": {
+      "delete": {
+        "tags": [
+          "Dogs"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Exhibitions": {
+      "get": {
+        "tags": [
+          "Exhibitions"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Exhibitions/{id}/results": {
+      "get": {
+        "tags": [
+          "Exhibitions"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Exhibitions/{id}/register": {
+      "post": {
+        "tags": [
+          "Exhibitions"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisterDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisterDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisterDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "DogDto": {
+        "type": "object",
+        "properties": {
+          "klichka": {
+            "type": "string",
+            "nullable": true
+          },
+          "kod_porody": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "kod_vladelca": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "data_rozhdeniya": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "pol": {
+            "type": "string",
+            "nullable": true
+          },
+          "nomer_rodoslovnoy": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "RegisterDto": {
+        "type": "object",
+        "properties": {
+          "dogId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

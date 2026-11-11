@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\forse\\Desktop\\DogClubApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|C:\\Users\\forse\\Desktop\\DogClubApp\\dogclubapp\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|solutionrelative:dogclubapp\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|C:\\Users\\forse\\Desktop\\DogClubApp\\dogclubapp\\registertoshowwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|solutionrelative:dogclubapp\\registertoshowwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|C:\\Users\\forse\\Desktop\\DogClubApp\\dogclubapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|solutionrelative:dogclubapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|C:\\Users\\forse\\Desktop\\DogClubApp\\dogclubapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|solutionrelative:dogclubapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|C:\\Users\\forse\\Desktop\\DogClubApp\\dogclubapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|solutionrelative:dogclubapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|C:\\Users\\forse\\Desktop\\DogClubApp\\dogclubapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|solutionrelative:dogclubapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|C:\\Users\\forse\\Desktop\\DogClubApp\\dogclubapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|solutionrelative:dogclubapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|C:\\Users\\forse\\Desktop\\DogClubApp\\dogclubapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|solutionrelative:dogclubapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|C:\\Users\\forse\\Desktop\\DogClubApp\\dogclubapp\\adddogwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|solutionrelative:dogclubapp\\adddogwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|C:\\Users\\forse\\Desktop\\DogClubApp\\dogclubapp\\adddogwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|solutionrelative:dogclubapp\\adddogwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EEEC7C-A8AE-4788-B200-6482ED2B6F00}|DogClubAPI\\DogClubAPI.csproj|c:\\users\\forse\\desktop\\dogclubapp\\dogclubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EEEC7C-A8AE-4788-B200-6482ED2B6F00}|DogClubAPI\\DogClubAPI.csproj|solutionrelative:dogclubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EEEC7C-A8AE-4788-B200-6482ED2B6F00}|DogClubAPI\\DogClubAPI.csproj|c:\\users\\forse\\desktop\\dogclubapp\\dogclubapi\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EEEC7C-A8AE-4788-B200-6482ED2B6F00}|DogClubAPI\\DogClubAPI.csproj|solutionrelative:dogclubapi\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EEEC7C-A8AE-4788-B200-6482ED2B6F00}|DogClubAPI\\DogClubAPI.csproj|c:\\users\\forse\\desktop\\dogclubapp\\dogclubapi\\controllers\\exhibitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EEEC7C-A8AE-4788-B200-6482ED2B6F00}|DogClubAPI\\DogClubAPI.csproj|solutionrelative:dogclubapi\\controllers\\exhibitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EEEC7C-A8AE-4788-B200-6482ED2B6F00}|DogClubAPI\\DogClubAPI.csproj|c:\\users\\forse\\desktop\\dogclubapp\\dogclubapi\\controllers\\dogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EEEC7C-A8AE-4788-B200-6482ED2B6F00}|DogClubAPI\\DogClubAPI.csproj|solutionrelative:dogclubapi\\controllers\\dogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EEEC7C-A8AE-4788-B200-6482ED2B6F00}|DogClubAPI\\DogClubAPI.csproj|c:\\users\\forse\\desktop\\dogclubapp\\dogclubapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5EEEC7C-A8AE-4788-B200-6482ED2B6F00}|DogClubAPI\\DogClubAPI.csproj|solutionrelative:dogclubapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|C:\\Users\\forse\\Desktop\\DogClubApp\\dogclubapp\\registertoshowwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|solutionrelative:dogclubapp\\registertoshowwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|C:\\Users\\forse\\Desktop\\DogClubApp\\dogclubapp\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|solutionrelative:dogclubapp\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|C:\\Users\\forse\\Desktop\\DogClubApp\\dogclubapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{332BF356-DBF9-4D13-9B7D-772EEBACE1F2}|DogClubApp\\DogClubApp.csproj|solutionrelative:dogclubapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\App.xaml",
+              "RelativeDocumentMoniker": "DogClubApp\\App.xaml",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\App.xaml",
+              "RelativeToolTip": "DogClubApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-05T11:06:32.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DogClubApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\App.xaml.cs",
+              "RelativeToolTip": "DogClubApp\\App.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T11:06:48.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "DogClubApp\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\LoginWindow.xaml",
+              "RelativeToolTip": "DogClubApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-05T11:07:13.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DogClubApp\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "DogClubApp\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T11:07:51.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DogClubApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\MainWindow.xaml",
+              "RelativeToolTip": "DogClubApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-05T10:53:09.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "DogClubApp\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\RegisterWindow.xaml",
+              "RelativeToolTip": "DogClubApp\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-05T12:13:09.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddDogWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\AddDogWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DogClubApp\\AddDogWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\AddDogWindow.xaml.cs",
+              "RelativeToolTip": "DogClubApp\\AddDogWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T11:22:16.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DogClubApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DogClubApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T10:53:09.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterToShowWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\RegisterToShowWindow.xaml",
+              "RelativeDocumentMoniker": "DogClubApp\\RegisterToShowWindow.xaml",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\RegisterToShowWindow.xaml",
+              "RelativeToolTip": "DogClubApp\\RegisterToShowWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-05T11:39:27.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddDogWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\AddDogWindow.xaml",
+              "RelativeDocumentMoniker": "DogClubApp\\AddDogWindow.xaml",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\AddDogWindow.xaml",
+              "RelativeToolTip": "DogClubApp\\AddDogWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-05T11:22:07.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DogsController.cs",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubAPI\\Controllers\\DogsController.cs",
+              "RelativeDocumentMoniker": "DogClubAPI\\Controllers\\DogsController.cs",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubAPI\\Controllers\\DogsController.cs",
+              "RelativeToolTip": "DogClubAPI\\Controllers\\DogsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T14:17:08.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DogClubAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubAPI\\Program.cs",
+              "RelativeToolTip": "DogClubAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T14:16:05.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubAPI\\Data\\DbHelper.cs",
+              "RelativeDocumentMoniker": "DogClubAPI\\Data\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubAPI\\Data\\DbHelper.cs",
+              "RelativeToolTip": "DogClubAPI\\Data\\DbHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T14:15:40.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DogClubAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubAPI\\appsettings.json",
+              "RelativeToolTip": "DogClubAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-06T14:14:57.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DogClubApp\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "DogClubApp\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T12:13:21.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\App.config",
+              "RelativeDocumentMoniker": "DogClubApp\\App.config",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\App.config",
+              "RelativeToolTip": "DogClubApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-05T12:52:31.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExhibitionsController.cs",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubAPI\\Controllers\\ExhibitionsController.cs",
+              "RelativeDocumentMoniker": "DogClubAPI\\Controllers\\ExhibitionsController.cs",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubAPI\\Controllers\\ExhibitionsController.cs",
+              "RelativeToolTip": "DogClubAPI\\Controllers\\ExhibitionsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T14:17:28.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterToShowWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\RegisterToShowWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DogClubApp\\RegisterToShowWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\forse\\Desktop\\DogClubApp\\DogClubApp\\RegisterToShowWindow.xaml.cs",
+              "RelativeToolTip": "DogClubApp\\RegisterToShowWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowEQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T11:39:37.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

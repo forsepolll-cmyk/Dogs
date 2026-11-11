@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "DogClubAPI.Controllers.DogsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Dogs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DogClubAPI.Controllers.DogsController",
+    "Method": "Add",
+    "RelativePath": "api/Dogs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dog",
+        "Type": "DogClubAPI.Controllers.DogDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DogClubAPI.Controllers.DogsController",
+    "Method": "Delete",
+    "RelativePath": "api/Dogs/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DogClubAPI.Controllers.ExhibitionsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Exhibitions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DogClubAPI.Controllers.ExhibitionsController",
+    "Method": "RegisterDog",
+    "RelativePath": "api/Exhibitions/{id}/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "DogClubAPI.Controllers.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DogClubAPI.Controllers.ExhibitionsController",
+    "Method": "GetResults",
+    "RelativePath": "api/Exhibitions/{id}/results",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
